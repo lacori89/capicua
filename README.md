@@ -6,6 +6,7 @@ Para la solución del ejercicio #1, realice la codificación en JavaScript, crea
 
 ## # Instrucciones de ejecución del código 
 
-1. Ejecutar (abrir) el archivo **capicua.html**
-2. Llenar los campos del formulario (**cadena "3943" y  paso "1"**) 
-3. Dar click en el botón de calcular.
+1. Descargar el archivo **capicua.html**
+2. Ejecutar (abrir) el archivo descargado **capicua.html**
+3. Llenar los campos del formulario (**cadena "3943" y  paso "1"**) 
+4. Dar click en el botón de calcular.
